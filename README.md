@@ -7,8 +7,8 @@ Final Project for ITDEV164.  This will incorporate what I've learned this semest
 **Project Features**
 
 - Project will mock a comments section.
-- Comments will not have a reply option.
-- Comments will be a component.
+- Project will allow Wiki Articles to be organized by tags.
+- Project will demonstrate Styled Icons, Components and Theming.
 
 ## Project Planning
 
